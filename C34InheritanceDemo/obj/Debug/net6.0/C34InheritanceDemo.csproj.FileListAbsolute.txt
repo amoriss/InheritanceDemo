@@ -1,0 +1,15 @@
+C:\Users\amori\Desktop\Repos\C34InheritanceDemo\C34InheritanceDemo\bin\Debug\net6.0\C34InheritanceDemo.exe
+C:\Users\amori\Desktop\Repos\C34InheritanceDemo\C34InheritanceDemo\bin\Debug\net6.0\C34InheritanceDemo.deps.json
+C:\Users\amori\Desktop\Repos\C34InheritanceDemo\C34InheritanceDemo\bin\Debug\net6.0\C34InheritanceDemo.runtimeconfig.json
+C:\Users\amori\Desktop\Repos\C34InheritanceDemo\C34InheritanceDemo\bin\Debug\net6.0\C34InheritanceDemo.dll
+C:\Users\amori\Desktop\Repos\C34InheritanceDemo\C34InheritanceDemo\bin\Debug\net6.0\C34InheritanceDemo.pdb
+C:\Users\amori\Desktop\Repos\C34InheritanceDemo\C34InheritanceDemo\obj\Debug\net6.0\C34InheritanceDemo.csproj.AssemblyReference.cache
+C:\Users\amori\Desktop\Repos\C34InheritanceDemo\C34InheritanceDemo\obj\Debug\net6.0\C34InheritanceDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\amori\Desktop\Repos\C34InheritanceDemo\C34InheritanceDemo\obj\Debug\net6.0\C34InheritanceDemo.AssemblyInfoInputs.cache
+C:\Users\amori\Desktop\Repos\C34InheritanceDemo\C34InheritanceDemo\obj\Debug\net6.0\C34InheritanceDemo.AssemblyInfo.cs
+C:\Users\amori\Desktop\Repos\C34InheritanceDemo\C34InheritanceDemo\obj\Debug\net6.0\C34InheritanceDemo.csproj.CoreCompileInputs.cache
+C:\Users\amori\Desktop\Repos\C34InheritanceDemo\C34InheritanceDemo\obj\Debug\net6.0\C34InheritanceDemo.dll
+C:\Users\amori\Desktop\Repos\C34InheritanceDemo\C34InheritanceDemo\obj\Debug\net6.0\refint\C34InheritanceDemo.dll
+C:\Users\amori\Desktop\Repos\C34InheritanceDemo\C34InheritanceDemo\obj\Debug\net6.0\C34InheritanceDemo.pdb
+C:\Users\amori\Desktop\Repos\C34InheritanceDemo\C34InheritanceDemo\obj\Debug\net6.0\C34InheritanceDemo.genruntimeconfig.cache
+C:\Users\amori\Desktop\Repos\C34InheritanceDemo\C34InheritanceDemo\obj\Debug\net6.0\ref\C34InheritanceDemo.dll
